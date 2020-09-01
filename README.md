@@ -1,1 +1,1 @@
-# uptimebot
+# uptime
